@@ -306,7 +306,7 @@ You need microsoft's visual studio code in order to work on the API's [Visual St
 
 What are some good ServerSides? I'll be listing and explain why serversides are not worth it.
 
-~~TOPK3K~~
+**~~TOPK3K~~**
 
 **(DISCONTINUED)**
 
@@ -317,7 +317,9 @@ What are some good ServerSides? I'll be listing and explain why serversides are 
 **ServerSides don't last long, it can end whenever, the games are limited, there might be a lot of players but it's most likely just people that don't bother at all. It's like their too shy to chat. I'm not gonna list other serversides because they're not worth it brother. If you're looking for free serversides, NONE, and if there was they'd probably be shit.**
 
 Now that we finished explaining the basics, here are some exploits I recommend and NOT recommend.
-Free Exploits:
+
+## Free Exploits:
+
 [JJSploit](https://wearedevs.net/d/JJSploit)
 
 Most popular free exploit, I honestly don't recommend this, the UI is shitty, every time you inject it's a guaranteed crash, whenever you execute a script you literally drop 30 frames. If you execute print("hello world") it might even crash that's how bad it is, the older version could do better than the new versions.
