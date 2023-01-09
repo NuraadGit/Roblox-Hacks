@@ -364,11 +364,17 @@ DISCONTINUED - ~~[ProtoSmasher](https://protosmasher.net/)~~
 If you want a comparison, here you go:
 
 
-| Name        | Price       |     Pros      |     Cons      |
-| :---:       |    :----:   |         :---: |         :---: |
-| Synapse X      | 15-20 US        | Rarely crashes, good UI + customizable, fast updates. Also has synapse only scripts available. Mostly undetected and executes almost all scripts.  | No known cons.  |
-| ScriptWare   | 13.00-19.00 US        | Has a friends list, alot of featured scripts, and available on mac	      |  No known cons.    |
-| JJspoilt   | Free    | No known pros other than having a small gui of scripts.	      |  Most of the time it crashes on attempting to do `print(Hello World)` Doesn't update as fast.     |
+|    Name    | Price    |                                                                        Pros                                                                       |                          Cons                          | Other                                                                     |
+|:----------:|----------|:-------------------------------------------------------------------------------------------------------------------------------------------------:|:------------------------------------------------------:|---------------------------------------------------------------------------|
+| Synapse X  | 15-20 US | Rarely crashes, good UI + customizable, fast updates. Also has synapse only scripts available. Mostly undetected and executes almost all scripts. | No known cons.                                         |                                                                           |
+| ScriptWare | 13-19 US | Has a friends list, alot of featured scripts, and available on mac.                                                                               | No known cons.                                         | Be sure to keep an eye on this exploit, it's slowly overcoming Synapse X. |
+| KRNL       | Free     | Most popular free exploit, comparable to Synapse X without paying, executes most scripts as paid ones do.                                         | Key System only lasts 1 day, while others have 3 days. |                                                                           |
+| Oxygen U   | Free     | Mostly the same as KRNL, most of the time used when KRNL is down, great UI and executes most scripts.                                             | Same system as KRNL                                    |                                                                           |
+| Coco Z     | Free     | Smooth UI, decent executor. Executes most scripts, rarely crashes.                                                                                | Same system as KRNL                                    | Key System lasts 3 days instead of 1.                                     |
+| Fluxus     | Free     | Good UI.                                                                                                                                          | Sometimes crashes, same system as KRNL.                |                                                                           |
+| Kiwi X     | Free     | Can run scripts that have a lot of functions, such as obfuscated code, and others.                                                                | Too many popups.                                       |                                                                           |
+| JJSploit   | Free     | do not use,it is dog shit, if you try to do print(hello world) it crashes.  
+
 
 
 Important things to note:
