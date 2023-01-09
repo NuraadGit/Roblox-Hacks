@@ -287,7 +287,7 @@ I want to make a simple script hub, how do I do it?
 
 I wish I had the energy to actually just make one but I'm just going to send a YouTube link on how to do it.
 
-[Youtube](https://youtu.be/5g_n6756VP4) | [GUI To LUA Plugin](https://www.roblox.com/library/1343400903/Gui-to-Lua-Converter-Revamped\)
+[Youtube](https://youtu.be/5g_n6756VP4)  [GUI To LUA Plugin](https://www.roblox.com/library/1343400903/Gui-to-Lua-Converter-Revamped)
 
 ### 6.2: I want to use a UI Library instead of making my own UI
 
