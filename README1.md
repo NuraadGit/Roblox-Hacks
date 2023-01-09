@@ -1,3 +1,9 @@
+# Hey! 
+
+If your reading this, or download anything from here, I **AM NOT** responsible for any damage you cause using this guide or exploits.
+
+This was made for educational purposes.
+
 
 ## Introduction:
 
