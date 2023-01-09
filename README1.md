@@ -206,7 +206,7 @@ Check if your password is there and immediately change it, if your IP is also le
 
 You can go ahead and check out someone's random script list on github, although it has not been updated for months.
 
-You can see them here: [Github](https://github.com/dimension-sources/random-scripts-i-found]
+You can see them here: [Github](https://github.com/dimension-sources/random-scripts-i-found)
 
 Before we head to other details, I'll explain what the most used scripts are and what they do.
 ### 2.1: [Fly](https://wearedevs.net/d/Fly)
@@ -281,11 +281,11 @@ I want to make a simple script hub, how do I do it?
 
 I wish I had the energy to actually just make one but I'm just going to send a YouTube link on how to do it.
 
-[Youtube](https://youtu.be/5g_n6756VP4) | [GUI To LUA Plugin](https://www.roblox.com/library/1343400903/Gui-to-Lua-Converter-Revamped\
+[Youtube](https://youtu.be/5g_n6756VP4) | [GUI To LUA Plugin](https://www.roblox.com/library/1343400903/Gui-to-Lua-Converter-Revamped\)
 
 ### 6.2: I want to use a UI Library instead of making my own UI
 
-If you like to spice things up a bit I'd recommend using a UI Library if you're lazy to make a GUI yourself, here's a github where you can find a lot of UI Libraries: https://github.com/bloodball/UI-Librarys
+If you like to spice things up a bit I'd recommend using a UI Library if you're lazy to make a GUI yourself, here's a github where you can find a lot of [UI Libraries](https://github.com/bloodball/UI-Librarys)
 
 How do I make an executor with an already made API?
 ### 6.1: Getting the API's
@@ -366,7 +366,9 @@ If you want a comparison, here you go:
 | Name        | Price       |     Pros      |     Cons      |
 | :---:       |    :----:   |         :---: |         :---: |
 | Synapse X      | 15-20 US        | Rarely crashes, good UI + customizable, fast updates. Also has synapse only scripts available. Mostly undetected and executes almost all scripts.  | No known cons.  |
-| ScriptWare   | 13.00-19.00 US        | Has a friends list	      |  And more     |
+| ScriptWare   | 13.00-19.00 US        | Has a friends list, alot of featured scripts, and available on mac	      |  No known cons.    |
+| JJspoilt   | Free    | No known pros other than having a small gui of scripts.	      |  Most of the time it crashes on attempting to do `print(Hello World)` Doesn't update as fast.     |
+
 
 Important things to note:
 Do not join the fake KRNL discord serverdiscord.gg/krnl they will token log you, do not download anything that is given by the fake Ice Bear.
