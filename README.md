@@ -386,7 +386,7 @@ If you want a comparison, here you go:
 
 
 Important things to note:
-Do not join the fake KRNL discord serverdiscord.gg/krnl they will token log you, do not download anything that is given by the fake Ice Bear.
+Do not join the fake KRNL discord server discord.gg/krnl they will token log you, do not download anything that is given by the fake Ice Bear.
 
 WeAreDevs is safe, back in 2018 the owner got RATTED, and placed hidden viruses in the exploits that used to be there. It is now safe and there is no need to worry about it.
 Do be careful with them regardless.
